@@ -10,7 +10,7 @@
 - Para asegurarnos de que se ha instalado correctamente abriremos una consola de comandos como puede ser Windows PowerShell o el Símbolo de sistema, aquí escribiremos el comando "java -version" (sin comillas). Si ha funcionado debería aparecer una respuesta como esta: 
 
 <div align="center">
-    <img src="(https://github.com/JoseM-SevAv/app_fichas_rol/blob/main/imagenes/powershell.png)" height = "500 px"/>
+    <img src="https://github.com/JoseM-SevAv/app_fichas_rol/blob/main/imagenes/powershell.png" height = "500 px"/>
 </div>
 
 
