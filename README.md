@@ -6,7 +6,7 @@ La aplicación que nos hará ricos.
 
 [Curso de Java](https://www.youtube.com/watch?v=JOAqpdM36wI) en youtube.
 
-[Tutorial de Java propio](https://github.com/JoseM-SevAv/app_fichas_rol/blob/main/data/tutojava.md).
+[Tutorial de Java propio](https://github.com/JoseM-SevAv/app_fichas_rol/blob/main/data/tutojava.md) (en nuestro propio repositorio de Github).
 
 ### Esquema principal:
 
